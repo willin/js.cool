@@ -1,0 +1,11 @@
+language: node_js
+node_js: node
+branches:
+  only:
+    - master
+before_install:
+  - export TZ='Asia/Shanghai'
+install:
+  - npm i
+script:
+  - npm run ci

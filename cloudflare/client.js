@@ -5,6 +5,6 @@ module.exports = sdk0({
   timeout: 5000,
   headers: {
     'Content-Type': 'application/json',
-    Authorization: `Bearer ${process.env.JS_COOL_CF_TOKEN}`
+    'Authorization': `Bearer ${process.env.JS_COOL_CF_TOKEN}`
   }
 });

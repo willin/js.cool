@@ -1,7 +1,9 @@
 const sdk = require('./client');
 
+const ZONE = process.env.JS_COOL_CF_ZONE;
+
 const list = async (page = 1) => {
-  const { data: { result = [] } = {} } = await sdk.get(`/zones/${process.env.JS_COOL_CF_ZONE}/dns_records`, {
+  const { data: { result = [] } = {} } = await sdk.get(`/zones/${ZONE}/dns_records`, {
     params: {
       page,
       per_page: 100,
@@ -14,13 +16,20 @@ const list = async (page = 1) => {
   return result;
 };
 
-const create = async () => {};
+const create = async (args) => {
+  return sdk.post(`/zones/${ZONE}/dns_records`, {
+    ...{
+      type: 'CNAME',
+      ttl: 1
+    },
+    ...args
+  });
+};
 
-const update = async () => {};
-
-const remove = async () => {};
+const remove = (recordId) => {
+  return sdk.delete(`/zones/${ZONE}/dns_records/${recordId}`);
+};
 
 exports.list = list;
 exports.create = create;
-exports.update = update;
 exports.remove = remove;

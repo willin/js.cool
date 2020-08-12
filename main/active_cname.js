@@ -17,25 +17,29 @@
  * CLOUDFLARE:  目前 JS.COOL 使用的 DNS 服务商为 CloudFlare。默认情况下代理状态为自动（支持 SSL），
  *              通过 HTTPS 链接（如： https://foo.js.cool ）进行访问。
  *              但如果你不希望通过 CloudFlare 加速，可以选择 `仅限 DNS` 选项，
- *              只需要在你提交的代码后面添加 `//noCF` 注释即可。
+ *              只需要在你提交的代码后面添加 `// noCF` 注释即可。
  *
- * IMPORTANT:   To authorize yourself as the owner of the GitHub Page you must have added a valid CNAME file
- *              (with the requested domain, e.g.: "foo.js.org") to your repository.
- *              The requested subdomain must match either your GitHub username or the name of your project
- *              repository. Exceptions are possible for the sake of clarity (e.g. if your project has the
- *              name "foojs" you can request "foo").
- *              Before you start a request for your personal fork of "react" or "vue" you should read
- *              the section "naming conflicts" in the wiki!
- *
- * NOTICE:      Please follow the format set by everyone else in this file. Entries should use double quotes,
- *              with space between the colon (after the key) and the value and should always be in alphabetical
- *              order. Each line apart from the very last entry should have a comma after it to ensure this file
- *              is valid syntax.
- *
- *              BECAUSE OF THE RISK OF ABUSE, I´M NOT ACCEPTING REQUESTS FOR PAGES WITHOUT REASONABLE CONTENT!
+ * 注意：        您的网站至少要提供中文语言版本（推荐中英双文）；
+ *              为了避免域名冲突，请在申请前进行检查；
+ *              为了避免滥用，无网站内容的申请将被拒绝。
  */
 module.exports = {
+  // 请在此处区域内添加自定义域名
+  'leader': 'willin.github.io',
+  'codewars': 'js-cool.github.io',
+  'dataloader': 'shiwangme.github.io',
+  'hyperapp': 'willin.github.io',
+  'anime': 'js-cool.github.io',
+  'learn': 'hosting.gitbook.com',
+  'vchart': 'willin.github.io',
+  'graphql': 'willin.github.io',
+  'speech': 'willin.github.io',
+  'antiadblock': 'js-cool.github.io',
+  'swm': 'shiwangme.github.io',
+  // 请在此行之上新增一行并提交 Pull Request
+  // 示例：
+  // 'youarname': 'username.github.io' // noCF
+  // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
-  www: 'js-cool.github.io',
-  leader: 'willin.github.io'
+  'www': 'js-cool.github.io'
 };
