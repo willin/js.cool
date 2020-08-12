@@ -1,0 +1,35 @@
+{
+  "name": "js.cool",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "sdk0": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.6.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-config-willin": "^1.0.5",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "^2.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-cool/js.cool.git"
+  },
+  "keywords": [
+    "js.cool",
+    "js",
+    "cool",
+    "domain"
+  ],
+  "author": "Willin Wang",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/js-cool/js.cool/issues"
+  },
+  "homepage": "https://github.com/js-cool/js.cool#readme",
+  "private": true
+}
