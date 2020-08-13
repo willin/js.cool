@@ -8,7 +8,17 @@
 
 ## How to apply
 
-TBD
+- Fork this repo
+- Add a new line for the domain you want to use
+  Support: [CNAME](https://github.com/js-cool/js.cool/blob/master/main/active_cname.js) and [Custom NS](https://github.com/js-cool/js.cool/blob/master/main/active_ns.js)
+- Make a Pull Request
+- Wait for deployment
+
+## Principe
+
+- First of all, you need a site with content
+- Check whether the subdomain is available
+- Your site must have a Chinese translation edition
 
 ## LICENSE
 

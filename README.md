@@ -8,7 +8,16 @@
 
 ## 申请流程
 
-TBD
+- Fork 本项目
+- 域名信息添加，目前支持：[CNAME 绑定](https://github.com/js-cool/js.cool/blob/master/main/active_cname.js) 或 [自定义 NS](https://github.com/js-cool/js.cool/blob/master/main/active_ns.js)
+- 提交 Pull Request
+- 等待审核，确认后部署
+
+## 注册条件
+
+- 为了避免滥用，无网站内容的申请将被拒绝
+- 为了避免域名冲突，请在申请前进行检查
+- 您的网站至少要提供中文语言版本（推荐中英双文）
 
 ## 鸣谢
 
