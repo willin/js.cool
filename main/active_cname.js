@@ -32,6 +32,7 @@ module.exports = {
   'speech': 'willin.github.io',
   'antiadblock': 'js-cool.github.io',
   'swm': 'shiwangme.github.io',
+  'jen': 'dirkhe1051931999.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
