@@ -40,5 +40,6 @@ module.exports = {
   // 'youarname': 'username.github.io' // noCF
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
-  'www': 'js-cool.github.io'
+  'www': 'js-cool.github.io',
+  'logo': 'js-cool.github.io'
 };
