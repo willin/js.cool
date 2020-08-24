@@ -36,6 +36,7 @@ module.exports = {
   'uiw': 'uiwjs.github.io',
   'xrkffgg': 'xrkffgg.github.io',
   'interview': 'front-end-interview.netlify.app',
+  'xiaomeiwu':'xiaomeiwu.github.io/vue-admin',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
