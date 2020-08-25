@@ -58,7 +58,10 @@ async function main() {
     const proxied = !/\/\/\s*noCF/.test(matchedLine);
     await dns.create({
       name: `${name.toLowerCase()}.js.cool`,
-      content: content.toLowerCase(),
+      content: content
+        .toLowerCase()
+        .replace(/^(.*\/\/)/, '')
+        .replace(/(\/.*)$/, ''),
       proxied
     });
   }
