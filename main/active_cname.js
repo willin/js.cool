@@ -38,6 +38,7 @@ module.exports = {
   'interview': 'front-end-interview.netlify.app',
   'xiaomeiwu':'xiaomeiwu.github.io/vue-admin',
   'ip': 'ipip.vercel.app', // noCF
+  'mingyan': 'mingyan.now.sh', //noCf
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
