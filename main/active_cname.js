@@ -21,7 +21,7 @@
  */
 module.exports = {
   // 请在此处区域内添加自定义域名
-  'cnchar': 'theajack.gitee.io',
+  'cnchar': 'theajack.github.io',
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
   'dataloader': 'shiwangme.github.io',
