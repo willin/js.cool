@@ -32,7 +32,7 @@ module.exports = {
   'graphql': 'willin.github.io',
   'speech': 'willin.github.io',
   'antiadblock': 'js-cool.github.io',
-  'swm': 'shiwangme.github.io',
+  'noho': 'willin.github.io',
   'jen': 'dirkhe1051931999.github.io',
   'uiw': 'uiwjs.github.io',
   'xrkffgg': 'xrkffgg.github.io',
