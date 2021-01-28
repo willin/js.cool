@@ -42,6 +42,7 @@ module.exports = {
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na':'qq.mcust.cn',
   'bbx': 'appser.gitee.io',
+  'mengd': 'cname.vercel-dns.com',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
