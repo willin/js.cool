@@ -43,7 +43,7 @@ module.exports = {
   'na':'qq.mcust.cn',
   'bbx': 'appser.gitee.io',
   'mengd': 'cname.vercel-dns.com',
-  'kali': 'kali65536.gitee.io', // noCF
+  'kali': '551kdx.coding-pages.com', 
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
