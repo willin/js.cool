@@ -45,6 +45,7 @@ module.exports = {
   'mengd': 'cname.vercel-dns.com',
   'kali': '551kdx.coding-pages.com', 
   'zwt': 'zwtdyhm.github.io', 
+  'zwtdwz': 'zwtdzh.github.io', 
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
