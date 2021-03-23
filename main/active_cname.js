@@ -41,7 +41,8 @@ module.exports = {
   'xiaomeiwu':'xiaomeiwu.github.io/vue-admin',
   'ip': 'ipip.vercel.app', // noCF
   'mingyan': 'lehs8n.coding-pages.com', //noCf
-  'na':'qq.mcust.cn',
+  'na': 'qq.mcust.cn',
+  'rx': 'willin.github.io',
   'bbx': 'appser.gitee.io',
   'mengd': 'cname.vercel-dns.com',
   'kali': '551kdx.coding-pages.com', 
