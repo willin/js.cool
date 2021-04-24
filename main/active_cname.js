@@ -49,6 +49,7 @@ module.exports = {
   'zwt': 'zwtdyhm.github.io', 
   'zwtdwz': 'zwtdzh.github.io', 
   'zwtdwlzd': 'zwtdwlid.github.io',
+  'blog': 'cname.vercel-dns.com', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
