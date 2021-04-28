@@ -21,7 +21,7 @@
  */
 module.exports = {
   // 请在此处区域内添加自定义域名
-  "j2me_games": "waifu-project.github.io/j2me_games",
+  "j2me_games": "waifu-project.github.io",
   'cnchar': 'theajack.github.io',
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
