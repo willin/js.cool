@@ -51,6 +51,7 @@ module.exports = {
   'zwtdwz': 'zwtdzh.github.io', 
   'zwtdwlzd': 'zwtdwlid.github.io',
   'histcat': 'jessejeson.github.io',
+  'wangdabao-resume': 'wangdabaoqq.github.io/resume-new',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
