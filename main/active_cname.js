@@ -21,6 +21,7 @@
  */
 module.exports = {
   // 请在此处区域内添加自定义域名
+  "icns": "icnskit.github.io",
   "j2me_games": "waifu-project.github.io",
   'cnchar': 'theajack.github.io',
   'leader': 'willin.github.io',
