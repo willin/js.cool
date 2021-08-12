@@ -37,11 +37,11 @@ module.exports = {
   'blockchain': 'willin.github.io',
   'antiadblock': 'js-cool.github.io',
   'noho': 'willin.github.io',
-  'jen': 'dirkhe1051931999.github.io',
+  //'jen': 'dirkhe1051931999.github.io',
   'uiw': 'uiwjs.github.io',
   'xrkffgg': 'xrkffgg.github.io',
   'interview': 'front-end-interview.netlify.app',
-  'xiaomeiwu':'xiaomeiwu.github.io/vue-admin',
+  'xiaomeiwu':'xiaomeiwu.github.io',
   'ip': 'ipip.vercel.app', // noCF
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na': 'qq.mcust.cn',
@@ -53,10 +53,11 @@ module.exports = {
   'zwtdwz': 'zwtdzh.github.io', 
   'zwtdwlzd': 'zwtdwlid.github.io',
   'histcat': 'jessejeson.github.io',
-  'wangdabao-resume': 'wangdabaoqq.github.io/resume-new',
-  'wangdabao': 'wangdabaoqq.github.io/hexo',
+  'wangdabao-resume': 'wangdabaoqq.github.io',
+  'wangdabao': 'wangdabaoqq.github.io',
   'zwtdwzym': 'zwtduserid.github.io',
   'kaodan': 'kaodan.github.io',
+  'gatsby-demo': 'whitematrix.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
