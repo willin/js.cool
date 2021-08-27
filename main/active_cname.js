@@ -58,6 +58,7 @@ module.exports = {
   'zwtdwzym': 'zwtduserid.github.io',
   'kaodan': 'kaodan.github.io',
   'gatsby-demo': 'whitematrix.github.io',
+  'box': 'qikaile.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
