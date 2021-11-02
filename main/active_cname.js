@@ -55,6 +55,7 @@ module.exports = {
   'histcat': 'jessejeson.github.io',
   'wangdabao-resume': 'wangdabaoqq.github.io',
   'wangdabao': 'wangdabaoqq.github.io',
+  'resources': 'willin.github.io',
   'zwtdwzym': 'zwtduserid.github.io',
   'kaodan': 'kaodan.github.io',
   'gatsby-demo': 'whitematrix.github.io',
