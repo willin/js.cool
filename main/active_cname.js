@@ -61,6 +61,7 @@ module.exports = {
   'gatsby-demo': 'whitematrix.github.io',
   'box': 'qikaile.github.io',
   'hualin': 'liaochenlanruo.github.io',
+  'authing-next': 'cname.vercel-dns.com',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
