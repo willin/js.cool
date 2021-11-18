@@ -52,7 +52,7 @@ module.exports = {
   'zwt': 'zwtdyhm.github.io', 
   'zwtdwz': 'zwtdzh.github.io', 
   'zwtdwlzd': 'zwtdwlid.github.io',
-  'histcat': 'jessejeson.github.io',
+  // 'histcat': 'jessejeson.github.io',
   'wangdabao-resume': 'wangdabaoqq.github.io',
   'wangdabao': 'wangdabaoqq.github.io',
   'resources': 'willin.github.io',
