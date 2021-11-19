@@ -20,6 +20,9 @@
  *              只需要在你提交的代码后面添加 `// noCF` 注释即可。
  */
 module.exports = {
+  // Cloudflare CDN
+  'github': 'cdn-github.willin.workers.dev', // github.com
+  'fonts-gstatic': 'fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   // 请在此处区域内添加自定义域名
   "color-ui": "colorui-kit.github.io",
   "icns": "icnskit.github.io",
@@ -48,9 +51,9 @@ module.exports = {
   'rx': 'willin.github.io',
   'bbx': 'appser.gitee.io',
   'mengd': 'cname.vercel-dns.com',
-  'kali': '551kdx.coding-pages.com', 
-  'zwt': 'zwtdyhm.github.io', 
-  'zwtdwz': 'zwtdzh.github.io', 
+  'kali': '551kdx.coding-pages.com',
+  'zwt': 'zwtdyhm.github.io',
+  'zwtdwz': 'zwtdzh.github.io',
   'zwtdwlzd': 'zwtdwlid.github.io',
   // 'histcat': 'jessejeson.github.io',
   'wangdabao-resume': 'wangdabaoqq.github.io',
