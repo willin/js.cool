@@ -67,6 +67,7 @@ module.exports = {
   'hualin': 'liaochenlanruo.github.io',
   'authing-next': 'cname.vercel-dns.com',
   'rallie': 'ralliejs.github.io',
+  'remix': 'remix-blog-demo.pages.dev',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
