@@ -26,6 +26,8 @@
 
 感谢 [Cloudflare](https://www.cloudflare.com/) 提供的优质 DNS 服务。
 
+感谢 [Vercel](https://vercel.com) 提供优质的主机服务。
+
 如果您对本项目感兴趣，可以通过以下方式支持我：
 
 - 关注我的 Github 账号：[@willin](https://github.com/willin) [![github](https://img.shields.io/github/followers/willin.svg?style=social&label=Followers)](https://github.com/willin)

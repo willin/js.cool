@@ -29,7 +29,9 @@ Apache-2.0
 
 ## THANKS
 
-... to [Cloudflare](https://www.cloudflare.com/) for their superb DNS service that makes this possible.
+Thanks to [Cloudflare](https://www.cloudflare.com/) for their superb DNS service that makes this possible.
+
+Thanks to [Vercel](https://vercel.com/) for their awesome hosting service that makes this possible.
 
 Donation ways:
 
