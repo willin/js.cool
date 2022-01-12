@@ -69,6 +69,7 @@ module.exports = {
   'rallie': 'ralliejs.github.io',
   'remix': 'remix-blog-demo.pages.dev',
   'atordvairn': 'atordvairn.vercel.app',
+  'todoish':'academicgit.github.io/TODOISH',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
