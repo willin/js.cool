@@ -43,6 +43,7 @@ module.exports = {
   'noho': 'willin.github.io',
   //'jen': 'dirkhe1051931999.github.io',
   'uiw': 'uiwjs.github.io',
+  'exam': 'exam-clock.vercel.app', //noCf
   'xrkffgg': 'xrkffgg.github.io',
   'interview': 'front-end-interview.netlify.app',
   'xiaomeiwu':'xiaomeiwu.github.io',
