@@ -72,8 +72,8 @@ module.exports = {
   'atordvairn': 'atordvairn.vercel.app',
   'free-ss': 'free-ss.vercel.app',
   'todoish':'academicgit.github.io',
-  "god": "docs.godwhite.tk"
-  "godwhite": "docs.godwhite.tk"
+  'god': 'docs.godwhite.tk',
+  'godwhite': 'docs.godwhite.tk',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
