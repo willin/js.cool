@@ -48,6 +48,7 @@ module.exports = {
   'interview': 'front-end-interview.netlify.app',
   'xiaomeiwu':'xiaomeiwu.github.io',
   'xiaopi': 'xiaopi.netlify.app',
+  'xiaowang': 'xiaowang.netlify.app',
   'ip': 'ipip.vercel.app', // noCF
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na': 'qq.mcust.cn',
