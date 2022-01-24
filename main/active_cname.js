@@ -56,6 +56,7 @@ module.exports = {
   'bbx': 'appser.gitee.io',
   'mengd': 'cname.vercel-dns.com',
   'kali': '551kdx.coding-pages.com',
+  'kunkun': 'kunkun.netlify.app',
   'zwt': 'zwtdyhm.github.io',
   'zwtdwz': 'zwtdzh.github.io',
   'zwtdwlzd': 'zwtdwlid.github.io',
