@@ -64,6 +64,7 @@ module.exports = {
   'wangdabao-resume': 'wangdabaoqq.github.io',
   'wangdabao': 'wangdabaoqq.github.io',
   'resources': 'willin.github.io',
+  'smallkunkun': 'kblog-dev.netlify.app',
   'zwtdwzym': 'zwtduserid.github.io',
   'kaodan': 'kaodan.github.io',
   'gatsby-demo': 'whitematrix.github.io',
