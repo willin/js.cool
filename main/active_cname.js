@@ -75,6 +75,7 @@ module.exports = {
   'remix': 'remix-blog-demo.pages.dev',
   'atordvairn': 'atordvairn.vercel.app',
   'free-ss': 'free-ss.vercel.app',
+  'retrounhash': 'cname.vercel-dns.com',
   'todoish':'academicgit.github.io',
   'god': 'godwhitetaiwan.github.io',
   'godwhite': 'godwhitetaiwan.github.io',
