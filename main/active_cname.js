@@ -23,6 +23,7 @@ module.exports = {
   // Cloudflare CDN
   'github': 'cdn-github.willin.workers.dev', // github.com
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
+  'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
   "color-ui": "colorui-kit.github.io",
   "icns": "icnskit.github.io",
