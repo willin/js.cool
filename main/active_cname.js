@@ -32,6 +32,7 @@ module.exports = {
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
   'dataloader': 'wshow.github.io',
+  'fox': 'sysfox.github.io',
   'regexper': 'wshow.github.io',
   'hyperapp': 'willin.github.io',
   'anime': 'js-cool.github.io',
