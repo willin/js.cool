@@ -32,7 +32,6 @@ module.exports = {
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
   'dataloader': 'wshow.github.io',
-  'fox': 'sysfox.github.io',
   'regexper': 'wshow.github.io',
   'hyperapp': 'willin.github.io',
   'anime': 'js-cool.github.io',
@@ -82,6 +81,7 @@ module.exports = {
   'god': 'godwhitetaiwan.github.io',
   'godwhite': 'godwhitetaiwan.github.io',
   'lzscxb': 'lzscxb.github.io',
+  'fox': 'teror.vercel.app',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
