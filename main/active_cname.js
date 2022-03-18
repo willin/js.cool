@@ -40,6 +40,7 @@ module.exports = {
   'vchart': 'willin.github.io',
   'graphql': 'willin.github.io',
   'speech': 'willin.github.io',
+  'shorturl': '63a13201-210b-428a-bebc-299898afb42b.id.repl.co',
   'blockchain': 'willin.github.io',
   'antiadblock': 'js-cool.github.io',
   'noho': 'willin.github.io',
