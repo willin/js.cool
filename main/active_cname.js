@@ -63,7 +63,6 @@ module.exports = {
   'zwt': 'zwtdyhm.github.io',
   'zwtdwz': 'zwtdzh.github.io',
   'zwtdwlzd': 'zwtdwlid.github.io',
-  'histcat': '76.76.21.21',
   'wangdabao-resume': 'wangdabaoqq.github.io',
   'wangdabao': 'wangdabaoqq.github.io',
   'resources': 'willin.github.io',
