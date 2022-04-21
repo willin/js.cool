@@ -89,12 +89,12 @@ module.exports = {
   'zenobia': 'zenobiadevelopment.github.io',
   'ngcchinl': 'zeusgangzz.github.io',
   'pzwboy': 'pzwboy.github.io',
+  'connor': 'connordoesdev.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io',
-  'connor': 'connordoesdev.github.io/portfolio' 
+  'logo': 'js-cool.github.io'
 };
