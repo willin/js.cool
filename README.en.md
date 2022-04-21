@@ -18,7 +18,7 @@
 
 - First of all, you need a site with content
 - Check whether the subdomain is available
-- Your site must have a Chinese translation edition
+- Your site ~~must~~(will be nice to) have a Chinese translation edition
 - Already finish web site development, or supply an opensource project you want a site for
 - Illegal topics are forbbiden
 - Irregular spot check to delete subdomains which have no content or not related to opensource
