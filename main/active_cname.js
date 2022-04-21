@@ -18,6 +18,11 @@
  *              通过 HTTPS 链接（如： https://foo.js.cool ）进行访问。
  *              但如果你不希望通过 CloudFlare 加速，可以选择 `仅限 DNS` 选项，
  *              只需要在你提交的代码后面添加 `// noCF` 注释即可。
+ * CLOUDFLARE:  JS.COOL uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
+ *              to get SSL support (https://foo.js.cool) and make use of browser caching with a TTL of 30 min.
+ *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
+ *              Just add '//noCF' in the line of your requested subdomain to give us a hint.
+ *              (all the lines marked with '//noCF?' are from a time when a requester had to explicitly opt-in.
  */
 module.exports = {
   // Cloudflare CDN
