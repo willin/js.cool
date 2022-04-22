@@ -95,6 +95,7 @@ module.exports = {
   'ngcchinl': 'zeusgangzz.github.io',
   'pzwboy': 'pzwboy.github.io',
   'connor': 'connordoesdev.github.io',
+  'mew': 'meowier.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
