@@ -96,7 +96,7 @@ module.exports = {
   'heiguoblog': 'fairy-plus.github.io',
   'zenobia': 'zenobiadevelopment.github.io',
   'ngcchinl': 'zeusgangzz.github.io',
-  'pzwboy': 'pzwboy.github.io',
+  'pzwboy': 'pzwboy.github.io', //noCF
   'connor': 'connordoesdev.github.io',
   'mew': 'meowier.github.io',
   'ethan': 'ethan-phu.github.io',
