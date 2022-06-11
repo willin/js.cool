@@ -97,6 +97,7 @@ module.exports = {
   'zenobia': 'zenobiadevelopment.github.io',
   'ngcchinl': 'zeusgangzz.github.io',
   'pzwboy': 'pzwboy.github.io',
+  'pattrick': 'kazs0001.github.io',
   'connor': 'connordoesdev.github.io',
   'mew': 'meowier.github.io',
   'ethan': 'ethan-phu.github.io',
