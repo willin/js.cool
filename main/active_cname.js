@@ -103,6 +103,8 @@ module.exports = {
   'ethan': 'ethan-phu.github.io',
   'u': 'short-url.pages.dev', //noCF
   'wzx': 'website-pages.github.io',
+  'wsee': 'md-wz.vercel.app', //noCF
+  'wlcf': 'md-wz.vercel.app', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
