@@ -30,7 +30,6 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
-  "world": "pythoniaweb.github.io"
   "json": "waifu-project.github.io",
   "code-font": "waifu-project.github.io",
   "color-ui": "colorui-kit.github.io",
@@ -107,6 +106,7 @@ module.exports = {
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
+  'world': 'pythoniaweb.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
