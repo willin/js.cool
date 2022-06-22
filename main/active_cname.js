@@ -106,7 +106,7 @@ module.exports = {
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
-  'world': 'pythoniaweb.github.io',
+  'world': 'pythoniaweb.github.io', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
