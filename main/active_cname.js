@@ -107,6 +107,7 @@ module.exports = {
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
   'world': 'pythoniaweb.github.io',
+  'bug': 'pythoniaweb.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
