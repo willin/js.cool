@@ -60,6 +60,7 @@ module.exports = {
   'xiaomeiwu':'xiaomeiwu.github.io',
   'xiaopi': 'xiaopi.netlify.app',
   'xiaowang': 'xiaowang.netlify.app',
+  'love': 'sincere.vercel.app',// noCF
   'ip': 'ipip.vercel.app', // noCF
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na': 'qq.mcust.cn',
@@ -114,5 +115,5 @@ module.exports = {
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io',
+  'logo': 'js-cool.github.io'
 };
