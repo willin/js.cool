@@ -31,6 +31,7 @@ module.exports = {
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
   "json": "waifu-project.github.io",
+  "spin": "rahulkarda.github.io",
   "code-font": "waifu-project.github.io",
   "color-ui": "colorui-kit.github.io",
   "icns": "icnskit.github.io",
