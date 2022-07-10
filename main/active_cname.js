@@ -111,7 +111,7 @@ module.exports = {
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
   'radio': 'ayahchill.github.io',
-  'start': 'icgi.github.io/start',
+  'start': 'icgi.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
