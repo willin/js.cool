@@ -30,6 +30,7 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
+  "appcheck": "app-checker.github.io",
   "json": "waifu-project.github.io",
   "spin": "rahulkarda.github.io",
   "code-font": "waifu-project.github.io",
