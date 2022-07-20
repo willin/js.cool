@@ -113,7 +113,7 @@ module.exports = {
   'class20': 'redblueidea.github.io',
   'radio': 'ayahchill.github.io',
   'start': 'start-pages.vercel.app',//noCF
-  'zx': 'cname.vercel-dns.com',
+  'zx': 'cname.vercel-dns.com', //noCF
   'zxr': 'zxrpn.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
