@@ -90,6 +90,7 @@ module.exports = {
   'free-ss': 'free-ss.vercel.app',
   'retrounhash': 'retrounhash.pages.dev',
   'todoish':'academicgit.github.io',
+  'wordle':'academicgit.github.io',
   'god': 'godwhitetaiwan.github.io',
   'godwhite': 'godwhitetaiwan.github.io',
   'lzscxb': 'lzscxb.github.io',
