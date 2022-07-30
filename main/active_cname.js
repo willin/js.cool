@@ -117,12 +117,12 @@ module.exports = {
   'start': 'start-pages.vercel.app',//noCF
   'zx': 'cname.vercel-dns.com', //noCF
   'zxr': 'zxrpn.github.io',
+  'elvis': 'elvisndubuisi.vercel.app', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io',
-  'elvis': 'elvisndubuisi.vercel.app'
+  'logo': 'js-cool.github.io'
 };
