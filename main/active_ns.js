@@ -12,7 +12,6 @@ module.exports = {
   // test: ['alexis.ns.cloudflare.com', 'connie.ns.cloudflare.com'],
   html: ['ns1.alidns.com', 'ns2.alidns.com'],
   css: ['freedns1.registrar-servers.com', 'freedns2.registrar-servers.com', 'freedns3.registrar-servers.com', 'freedns4.registrar-servers.com', 'freedns5.registrar-servers.com'],
-  13: ['ns1.afraid.org', 'ns2.afraid.org', 'ns3.afraid.org', 'ns4.afraid.org'],
 };
 
 /*
