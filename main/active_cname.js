@@ -107,7 +107,9 @@ module.exports = {
   'mew': 'meowier.github.io',
   'ethan': 'ethan-phu.github.io',
   'u': 'short-url.pages.dev', //noCF
-  'wzx': 'website-pages.github.io',
+  'wzx': 'wzx-blog.vercel.app', //noCF
+  'wzxn': 'wzx-nav.netlify.app', //noCF
+  'wzxg': 'wzx-game.netlify.app', //noCF
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
