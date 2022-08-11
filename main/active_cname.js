@@ -114,7 +114,8 @@ module.exports = {
   'radio': 'ayahchill.github.io',
   'start': 'start-pages.vercel.app',//noCF
   'z': 'cname.vercel-dns.com', 
-  'zx': 'cname.vercel-dns.com', //noCF
+  'zx': 'cname.vercel-dns.com', 
+  'zxg': 'cname.vercel-dns.com', 
   'zxr': 'zxrpn.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
