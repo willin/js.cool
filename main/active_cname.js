@@ -30,6 +30,7 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
+  "13": "0x3st.netlify.app",
   "appcheck": "app-checker.github.io",
   "json": "waifu-project.github.io",
   "spin": "rahulkarda.github.io",
@@ -118,8 +119,8 @@ module.exports = {
   'radio': 'ayahchill.github.io',
   'start': 'start-pages.vercel.app',//noCF
   'zx': 'cname.vercel-dns.com', //noCF
-  'zxr': 'zxrpn.github.io',
-  'elvis': 'elvisndubuisi.vercel.app', //noCF
+  'elvis': 'elvisndubuisi.vercel.app',
+  'mc': 'cnzc.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
