@@ -120,6 +120,8 @@ module.exports = {
   'start': 'start-pages.vercel.app',//noCF
   'zx': 'cname.vercel-dns.com', //noCF
   'elvis': 'elvisndubuisi.vercel.app',
+  'mc': 'cnzc.github.io',
+  'aqiu': 'aqiu.vercel.app',//nocF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
