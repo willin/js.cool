@@ -113,6 +113,7 @@ module.exports = {
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
+  'spicydevs': 'spicydevs.github.io', //noCF
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
