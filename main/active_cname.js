@@ -130,6 +130,5 @@ module.exports = {
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io',
-  'acey': 'cname.vercel-dns.com'
+  'logo': 'js-cool.github.io'
 };
