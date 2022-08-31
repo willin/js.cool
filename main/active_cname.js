@@ -124,6 +124,7 @@ module.exports = {
   'aqiu': 'aqiu.vercel.app',//nocF
   'scripthouse': 'scripthouse.vercel.app',//nocF
   'elvis': 'elvisndubuisi.vercel.app',//nocF
+  'dinglin': 'roaring-churros-e65865.netlify.app',// noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
