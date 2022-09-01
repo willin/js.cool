@@ -125,6 +125,7 @@ module.exports = {
   'scripthouse': 'scripthouse.vercel.app',//nocF
   'elvis': 'elvisndubuisi.vercel.app',//nocF
   'dinglin': 'roaring-churros-e65865.netlify.app',// noCF
+  'thitit': 'portfolio-five-tan.vercel.app',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
@@ -132,5 +133,4 @@ module.exports = {
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
   'logo': 'js-cool.github.io',
-  'thitit': 'portfolio-five-tan.vercel.app'
 };
