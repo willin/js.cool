@@ -43,6 +43,7 @@ module.exports = {
   'codewars': 'js-cool.github.io',
   'dara': 'idara17.github.io',
   'dataloader': 'wshow.github.io',
+  'donx': 'opaayush.github.io',
   'fcircle-doc': 'hexo-circle-of-friends-doc.vercel.app',
   'regexper': 'wshow.github.io',
   'hyperapp': 'willin.github.io',
