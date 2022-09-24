@@ -14,7 +14,7 @@ module.exports = {
   css: ['freedns1.registrar-servers.com', 'freedns2.registrar-servers.com', 'freedns3.registrar-servers.com', 'freedns4.registrar-servers.com', 'freedns5.registrar-servers.com'],
   cloud: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   acey: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
-  rulersworld: ['galileo.aternos.org', 'columbus.aternos.org']
+  play.minecraft: ['galileo.aternos.org', 'columbus.aternos.org']
 };
 
 /*
