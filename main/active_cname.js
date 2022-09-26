@@ -131,7 +131,7 @@ module.exports = {
   'duck': 'deng-duck.github.io',
   'ms': 'ms27520.github.io',
   'zzy':'hitptep.github.io',//noCF
-  'abe':'hitptep.github.io',//noCF
+  'abe':'hitptep.github.io/helpabe',//noCF
   'dice': 'cname.vercel-dns.com', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
