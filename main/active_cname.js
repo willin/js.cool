@@ -127,6 +127,7 @@ module.exports = {
   'dinglin': 'roaring-churros-e65865.netlify.app',// noCF
   'thitit': 'portfolio-five-tan.vercel.app',
   'duck': 'deng-duck.github.io',
+  'ms': 'ms27520.github.io',
   'zzy':'hitptep.github.io',//noCF
   'abe':'hitptep.github.io',//noCF
   'dice': 'cname.vercel-dns.com', //noCF
