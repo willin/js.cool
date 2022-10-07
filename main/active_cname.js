@@ -9,9 +9,9 @@
  **** 说明
  * ***********
  *
- * KEY:         你提交的域名（如：`foo` 表示自定义子域名为 `foo.js.cool`）
+ * KEY:  willmo       你提交的域名（如：`foo` 表示自定义子域名为 `foo.js.cool`）
  *
- * VALUE:       以 Github 为例，`foo.github.io` 表示用户/组织的主页，
+ * VALUE:  dr-willmos.github.io   以 Github 为例，`foo.github.io` 表示用户/组织的主页，
  *              或 `foo.github.io/bar` 表示项目主页，也可以绑定 Gitee、 CODING.NET 等其它开源托管服务商。
  *
  * CLOUDFLARE:  目前 JS.COOL 使用的 DNS 服务商为 CloudFlare。默认情况下代理状态为自动（支持 SSL），
@@ -29,6 +29,7 @@ module.exports = {
   'github': 'cdn-github.willin.workers.dev', // github.com
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
+  'WillMo': 'dr-willmos.github.io',
   // 请在此处区域内添加自定义域名
   "13": "0x3st.netlify.app",
   "appcheck": "app-checker.github.io",
