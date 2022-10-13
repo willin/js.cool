@@ -134,6 +134,7 @@ module.exports = {
   'abe':'hitptep.github.io',//noCF
   'dice': 'cname.vercel-dns.com', //noCF
   'willmo': 'dr-willmos.github.io', 
+  'navigator':'navigator.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
