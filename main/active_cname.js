@@ -42,6 +42,7 @@ module.exports = {
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
   'cdn.spicydevs': 'spicydevs.github.io',
+  'preview.spicydevs': 'spicydevs.github.io',
   'dara': 'idara17.github.io',
   'dataloader': 'wshow.github.io',
   'fcircle-doc': 'hexo-circle-of-friends-doc.vercel.app',
