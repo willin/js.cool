@@ -41,8 +41,6 @@ module.exports = {
   'cnchar': 'theajack.github.io',
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
-  'cdn.spicydevs': 'spicydevs.github.io',
-  'preview.spicydevs': 'spicydevs.github.io',
   'dara': 'idara17.github.io',
   'dataloader': 'wshow.github.io',
   'fcircle-doc': 'hexo-circle-of-friends-doc.vercel.app',
@@ -116,6 +114,9 @@ module.exports = {
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
   'spicydevs': 'spicydevs.pages.dev',
+  'cdn.spicydevs': 'spicydevs.github.io',
+  'preview.spicydevs': 'spicydevs.github.io',
+  'beta.spicydevs': 'spicydevs.github.io',
   'minecraft': 'mcjs.pages.dev',
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
