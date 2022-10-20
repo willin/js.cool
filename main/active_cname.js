@@ -114,7 +114,11 @@ module.exports = {
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
   'spicydevs': 'spicydevs.pages.dev',
+  'cdn.spicydevs': 'spicydevs.github.io',
+  'sd': 'spicydevs.pages.dev',
+  'preview.spicydevs': 'spicydevs.github.io',
   'minecraft': 'mcjs.pages.dev',
+  'servers': 'opaayush.github.io',
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
@@ -122,7 +126,6 @@ module.exports = {
   'start': 'start-pages.vercel.app',//noCF
   'zx': 'cname.vercel-dns.com', //noCF
   'mc': 'cnzc.github.io',
-  'servers': 'opaayush.github.io',
   'aqiu': 'aqiu.vercel.app',//nocF
   'scripthouse': 'scripthouse.vercel.app',//nocF
   'elvis': 'elvisndubuisi.vercel.app',//nocF
