@@ -119,6 +119,8 @@ module.exports = {
   'preview.spicydevs': 'spicydevs.github.io',
   'minecraft': 'mcjs.pages.dev',
   'servers': 'opaayush.github.io',
+  'nelophine': 'opaayush.github.io',
+  'uptime': 'opaayush.github.io',
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
