@@ -120,7 +120,7 @@ module.exports = {
   'minecraft': 'mcjs.pages.dev',
   'servers': 'opaayush.github.io',
   'nelophine': 'opaayush.github.io',
-  'uptime': 'opaayush.github.io',
+  'uptime': '872b6773-e225-46b7-b6b9-25747d831c64.id.repl.co',
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
