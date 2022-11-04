@@ -113,12 +113,6 @@ module.exports = {
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
-  'spicydevs': 'spicydevs.pages.dev',
-  'cdn.spicydevs': 'spicydevs.github.io',
-  'sd': 'spicydevs.pages.dev',
-  'preview.spicydevs': 'spicydevs.github.io',
-  'minecraft': 'mcjs.pages.dev',
-  'servers': 'opaayush.github.io',
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
@@ -141,6 +135,13 @@ module.exports = {
   'zswangziye':'zswangziye.github.io',
   'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
   'dengduck':'dengduck.netlify.app',
+  'spicydevs': 'spicydevs.pages.dev',
+  'cdn.spicydevs': 'spicydevs.github.io',
+  'sd': 'spicydevs.pages.dev',
+  'preview.spicydevs': 'spicydevs.github.io',
+  'minecraft': 'mcjs.pages.dev',
+  'servers': 'opaayush.github.io',
+  'uptime': '872b6773-e225-46b7-b6b9-25747d831c64.id.repl.co',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
