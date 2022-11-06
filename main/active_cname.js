@@ -141,6 +141,7 @@ module.exports = {
   'zswangziye':'zswangziye.github.io',
   'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
   'dengduck':'dengduck.netlify.app',
+  'waio': 'cname.vercel-dns.com', // noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
