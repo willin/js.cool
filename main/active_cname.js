@@ -56,6 +56,7 @@ module.exports = {
   'blockchain': 'willin.github.io',
   'antiadblock': 'js-cool.github.io',
   'noho': 'willin.github.io',
+  'sdk': 'mzaini30.github.io/sdk',
   //'jen': 'dirkhe1051931999.github.io',
   'uiw': 'uiwjs.github.io',
   'exam': 'exam-clock.vercel.app', //noCf
