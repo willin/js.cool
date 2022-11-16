@@ -90,6 +90,7 @@ module.exports = {
   'remix': 'remix-blog-demo.pages.dev',
   'atordvairn': 'atordvairn.vercel.app',
   'free-ss': 'free-ss.vercel.app',
+  'verse': 'verse-social.vercel.app',
   'retrounhash': 'retrounhash.pages.dev',
   'todoish':'academicgit.github.io',
   'wordle':'academicgit.github.io',
