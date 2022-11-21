@@ -48,6 +48,7 @@ module.exports = {
   'regexper': 'wshow.github.io',
   'hyperapp': 'willin.github.io',
   'anime': 'js-cool.github.io',
+  'vasu': 'vasu-xd.github.io',
   'learn': 'hosting.gitbook.com',
   'vchart': 'willin.github.io',
   'graphql': 'willin.github.io',
