@@ -148,6 +148,7 @@ module.exports = {
   'waio': 'cname.vercel-dns.com', // noCF
   'joy': 'frankjoy.vercel.app',// noCF
   'journey': 'feynmanfrank.github.io'// noCF
+  'zuili': 'xiaohao8.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
