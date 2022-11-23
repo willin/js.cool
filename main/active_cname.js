@@ -71,6 +71,7 @@ module.exports = {
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na': 'qq.mcust.cn',
   'rx': 'willin.github.io',
+  'yogg': 'yogsuhrawn.github.io',
   'bbx': 'appser.gitee.io',
   'mengd': 'cname.vercel-dns.com',
   'kali': '551kdx.coding-pages.com',
