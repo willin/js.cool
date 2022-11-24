@@ -148,13 +148,13 @@ module.exports = {
   'dengduck':'dengduck.netlify.app',
   'waio': 'cname.vercel-dns.com', // noCF
   'joy': 'frankjoy.vercel.app',// noCF
-  'journey': 'feynmanfrank.github.io'// noCF
+  'journey': 'feynmanfrank.github.io',// noCF
+  'dhruvil':'dhruvilmoradiya.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io',
-  'dhruvil':'dhruvilmoradiya.github.io'
+  'logo': 'js-cool.github.io'
 };
