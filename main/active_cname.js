@@ -156,4 +156,5 @@ module.exports = {
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
   'logo': 'js-cool.github.io',
+  'dhruvil':'dhruvilmoradiya.github.io'
 };
