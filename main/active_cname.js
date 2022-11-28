@@ -150,6 +150,7 @@ module.exports = {
   'joy': 'frankjoy.vercel.app',// noCF
   'journey': 'feynmanfrank.github.io',// noCF
   'dhruvil':'dhruvilmoradiya.github.io',
+  'whatsme.dhruvil':'whatsme.netlify.app'
   'zeptar': 'zeptar.vercel.app',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
