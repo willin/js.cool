@@ -154,6 +154,7 @@ module.exports = {
   'whatsme.dhruvil':'whatsme.netlify.app'
   'zeptar': 'zeptar.vercel.app',
   'muyangplus': 'muyangplus.github.io',
+  'eshexon': 'eshexon-docs.netlify.app', // noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
