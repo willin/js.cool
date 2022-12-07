@@ -31,7 +31,7 @@ module.exports = {
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
   //"jiancss": "jian-css.github.io",
-  "blog": "xyzscratcher.github.io",
+  "xyzblog": "xyzscratcher.github.io",
   "13": "0x3st.netlify.app",
   "foryou": "foryou-byfw.vercel.app", //noCF
   "appcheck": "app-checker.github.io",
