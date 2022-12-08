@@ -30,6 +30,7 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
+  "can1425": "can1425.github.io"
   "xyzblog": "xyzscratcher.github.io",
   "13": "0x3st.netlify.app",
   "foryou": "foryou-byfw.vercel.app", //noCF
