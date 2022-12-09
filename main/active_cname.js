@@ -155,7 +155,7 @@ module.exports = {
   'zeptar': 'zeptar.vercel.app',
   'muyangplus': 'muyangplus.github.io',
   'eshexon': 'eshexon-docs.netlify.app', // noCF
-  "can1425": "can1425.github.io",
+  'can1425': 'can1425.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
