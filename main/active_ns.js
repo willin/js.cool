@@ -17,6 +17,7 @@ module.exports = {
   ferdi: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   acey: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
   play.minecraft: ['galileo.aternos.org', 'columbus.aternos.org'],
+  priyansh: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
 };
 
 /*
