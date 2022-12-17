@@ -120,6 +120,7 @@ module.exports = {
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
   'spicydevs': 'spicydevs.pages.dev',
+  'priyansh': 'priyansh.pages.dev',
   'cdn.spicydevs': 'spicydevs.github.io',
   'sd': 'spicydevs.pages.dev',
   'preview.spicydevs': 'spicydevs.github.io',
