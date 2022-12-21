@@ -134,6 +134,7 @@ module.exports = {
   "wangdabao": "wangdabaoqq.github.io",
   "wangdabao-resume": "wangdabaoqq.github.io",
   "whatsme.dhruvil":"whatsme.netlify.app",
+  "william": "wdhdns.com", // noCF
   "willmo": "dr-willmos.github.io",
   "wlcf": "md-wz.vercel.app", // noCF
   "wordle":"academicgit.github.io",
