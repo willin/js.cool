@@ -21,147 +21,141 @@
  * CLOUDFLARE:  JS.COOL uses CloudFlare as its DNS. By default, CloudFlare proxies all requests to your subdomain
  *              to get SSL support (https://foo.js.cool) and make use of browser caching with a TTL of 30 min.
  *              But you can opt-out from this and make Cloudflare forward all requests directly to GitHub.
- *              Just add '//noCF' in the line of your requested subdomain to give us a hint.
- *              (all the lines marked with '//noCF?' are from a time when a requester had to explicitly opt-in.
- */
+ *              Just add "// noCF" in the line of your requested subdomain to give us a hint.
+ *              (all the lines marked with "// noCF?" are from a time when a requester had to explicitly opt-in.
+*/
+
 module.exports = {
-  // Cloudflare CDN
-  'github': 'cdn-github.willin.workers.dev', // github.com
-  'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
-  'remix-i18n': 'remix-i18n.pages.dev',
-  // 请在此处区域内添加自定义域名
-  "xyzblog": "xyzscratcher.github.io",
   "13": "0x3st.netlify.app",
-  "foryou": "foryou-byfw.vercel.app", //noCF
+  "@": "js-cool.github.io",
+  "abe":"hitptep.github.io", // noCF
+  "anime": "js-cool.github.io",
+  "antiadblock": "js-cool.github.io",
   "appcheck": "app-checker.github.io",
-  "json": "waifu-project.github.io",
-  "spin": "rahulkarda.github.io",
+  "aqiu": "aqiu.vercel.app", // noCF
+  "atordvairn": "atordvairn.vercel.app",
+  "authing-next": "cname.vercel-dns.com",
+  "bbx": "appser.gitee.io",
+  "blockchain": "willin.github.io",
+  "box": "qikaile.github.io",
+  "cdn.spicydevs": "spicydevs.github.io",
+  "class20": "redblueidea.github.io",
+  "cnchar": "theajack.github.io",
   "code-font": "waifu-project.github.io",
+  "codewars": "js-cool.github.io",
   "color-ui": "colorui-kit.github.io",
+  "connor": "connordoesdev.github.io",
+  "dara": "idara17.github.io",
+  "dataloader": "wshow.github.io",
+  "dengduck":"dengduck.netlify.app",
+  "dhruvil":"dhruvilmoradiya.github.io",
+  "dice": "cname.vercel-dns.com", // noCF
+  "dinglin": "roaring-churros-e65865.netlify.app", // noCF
+  "duck": "deng-duck.github.io",
+  "duckwaline":"waline-3bg5otthj-deng-duck.vercel.app",
+  "eleven": "elevenvac.github.io",
+  "elvis": "elvisndubuisi.vercel.app", // noCF
+  "eshexon": "eshexon-docs.netlify.app", // noCF
+  "ethan": "ethan-phu.github.io",
+  "exam": "exam-clock.vercel.app", // noCF
+  "fcircle-doc": "hexo-circle-of-friends-doc.vercel.app",
+  "feat": "featyou.vercel.app",
+  "feat-status": "status.cron-job.org",
+  "fonts-gstatic": "cdn-fonts-gstatic.willin.workers.dev",
+  "foryou": "foryou-byfw.vercel.app", // noCF
+  "fox": "cname-china.vercel-dns.com", // noCF
+  "frank": "joyfrank.vercel.app", // noCF
+  "free-ss": "free-ss.vercel.app",
+  "gatsby-demo": "whitematrix.github.io",
+  "github": "cdn-github.willin.workers.dev",
+  "god": "godwhitetaiwan.github.io",
+  "godwhite": "godwhitetaiwan.github.io",
+  "graphql": "willin.github.io",
+  "heiguoblog": "fairy-plus.github.io",
+  "hualin": "liaochenlanruo.github.io",
+  "hyperapp": "willin.github.io",
   "icns": "icnskit.github.io",
+  "interview": "front-end-interview.netlify.app",
+  "ip": "ipip.vercel.app", // noCF
   "j2me_games": "waifu-project.github.io",
-  'cnchar': 'theajack.github.io',
-  'leader': 'willin.github.io',
-  'codewars': 'js-cool.github.io',
-  'dara': 'idara17.github.io',
-  'dataloader': 'wshow.github.io',
-  'fcircle-doc': 'hexo-circle-of-friends-doc.vercel.app',
-  'regexper': 'wshow.github.io',
-  'hyperapp': 'willin.github.io',
-  'anime': 'js-cool.github.io',
-  'vasu': 'vasu-xd.github.io',
-  'learn': 'hosting.gitbook.com',
-  'vchart': 'willin.github.io',
-  'graphql': 'willin.github.io',
-  'speech': 'willin.github.io',
-  'shorturl': '63a13201-210b-428a-bebc-299898afb42b.id.repl.co',
-  'blockchain': 'willin.github.io',
-  'antiadblock': 'js-cool.github.io',
-  'noho': 'willin.github.io',
-  //'jen': 'dirkhe1051931999.github.io',
-  'uiw': 'uiwjs.github.io',
-  'shu': '87a5f664-7619-4689-b0d8-3cf0d028a6d3.id.repl.co',
-  'exam': 'exam-clock.vercel.app', //noCf
-  'xrkffgg': 'xrkffgg.github.io',
-  'interview': 'front-end-interview.netlify.app',
-  'xiaomeiwu':'xiaomeiwu.github.io',
-  'xiaopi': 'xiaopi.netlify.app',
-  'xiaowang': 'xiaowang.netlify.app',
-  'love': 'sincere.vercel.app',// noCF
-  'ip': 'ipip.vercel.app', // noCF
-  'mingyan': 'lehs8n.coding-pages.com', //noCf
-  'na': 'qq.mcust.cn',
-  'rx': 'willin.github.io',
-  'yogg': 'yogsuhrawn.github.io',
-  'bbx': 'appser.gitee.io',
-  'mengd': 'cname.vercel-dns.com',
-  'kali': '551kdx.coding-pages.com',
-  'kunkun': 'kunkun.netlify.app',
-  'zwt': 'zwtdyhm.github.io',
-  'zwtdwz': 'zwtdzh.github.io',
-  'zwtdwlzd': 'zwtdwlid.github.io',
-  'wangdabao-resume': 'wangdabaoqq.github.io',
-  'wangdabao': 'wangdabaoqq.github.io',
-  'resources': 'willin.github.io',
-  'smallkunkun': 'kblog-dev.netlify.app',
-  'zwtdwzym': 'zwtduserid.github.io',
-  'kaodan': 'kaodan.github.io',
-  'gatsby-demo': 'whitematrix.github.io',
-  'box': 'qikaile.github.io',
-  'hualin': 'liaochenlanruo.github.io',
-  'authing-next': 'cname.vercel-dns.com',
-  'rallie': 'ralliejs.github.io',
-  'remix': 'remix-blog-demo.pages.dev',
-  'atordvairn': 'atordvairn.vercel.app',
-  'free-ss': 'free-ss.vercel.app',
-  'verse': 'verse-social.vercel.app',
-  'retrounhash': 'retrounhash.pages.dev',
-  'todoish':'academicgit.github.io',
-  'wordle':'academicgit.github.io',
-  'god': 'godwhitetaiwan.github.io',
-  'godwhite': 'godwhitetaiwan.github.io',
-  'lzscxb': 'lzscxb.github.io',
-  'fox': 'cname-china.vercel-dns.com', //noCF
-  'luca': 'lucatolton.github.io',
-  'notapi': 'notapi.vercel.app', //noCF
-  'heiguoblog': 'fairy-plus.github.io',
-  'zenobia': 'zenobiadevelopment.github.io',
-  'ngcchinl': 'zeusgangzz.github.io',
-  'pzwboy': 'pzwboy.github.io',
-  'pattrick': 'kazs0001.github.io',
-  'connor': 'connordoesdev.github.io',
-  'mew': 'meowier.github.io',
-  'ethan': 'ethan-phu.github.io',
-  'u': 'short-url.pages.dev', //noCF
-  'wzx': 'wzx-blog.vercel.app', //noCF
-  'wzxn': 'wzx-nav.netlify.app', //noCF
-  'wzxg': 'wzx-game.netlify.app', //noCF
-  'eleven': 'elevenvac.github.io',
-  'wsee': 'md-wz.vercel.app', //noCF
-  'wlcf': 'md-wz.vercel.app', //noCF
-  'spicydevs': 'spicydevs.pages.dev',
-  'cdn.spicydevs': 'spicydevs.github.io',
-  'sd': 'spicydevs.pages.dev',
-  'preview.spicydevs': 'spicydevs.github.io',
-  'minecraft': 'mcjs.pages.dev',
-  'servers': 'opaayush.github.io',
-  'world': 'pythoniaweb.github.io',
-  'frank': 'joyfrank.vercel.app',// noCF
-  'class20': 'redblueidea.github.io',
-  'radio': 'ayahchill.github.io',
-  'start': 'start-pages.vercel.app',//noCF
-  'zx': 'cname.vercel-dns.com', //noCF
-  'mc': 'cnzc.github.io',
-  'aqiu': 'aqiu.vercel.app',//nocF
-  'scripthouse': 'scripthouse.vercel.app',//nocF
-  'elvis': 'elvisndubuisi.vercel.app',//nocF
-  'dinglin': 'roaring-churros-e65865.netlify.app',// noCF
-  'thitit': 'portfolio-five-tan.vercel.app',
-  'duck': 'deng-duck.github.io',
-  'ms': 'ms27520.github.io',
-  'zzy':'hitptep.github.io',//noCF
-  'abe':'hitptep.github.io',//noCF
-  'dice': 'cname.vercel-dns.com', //noCF
-  'willmo': 'dr-willmos.github.io', 
-  'navigator':'navigator.github.io',
-  'zswangziye':'zswangziye.github.io',
-  'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
-  'dengduck':'dengduck.netlify.app',
-  'waio': 'cname.vercel-dns.com', // noCF
-  'joy': 'frankjoy.vercel.app',// noCF
-  'journey': 'feynmanfrank.github.io',// noCF
-  'dhruvil':'dhruvilmoradiya.github.io',
-  'whatsme.dhruvil':'whatsme.netlify.app'
-  'zeptar': 'zeptar.vercel.app',
-  'muyangplus': 'muyangplus.github.io', // noCF
-  'eshexon': 'eshexon-docs.netlify.app', // noCF
-  'feat': 'featyou.vercel.app',
-  'feat-status': 'status.cron-job.org',
-  // 请在此行之上新增一行并提交 Pull Request
-  // 示例：
-  // 'youarname': 'username.github.io' // noCF
-  // 以下为已启用的保留域名，请勿修改
-  '@': 'js-cool.github.io',
-  'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io'
-};
+  "journey": "feynmanfrank.github.io", // noCF
+  "joy": "frankjoy.vercel.app", // noCF
+  "json": "waifu-project.github.io",
+  "kali": "551kdx.coding-pages.com",
+  "kaodan": "kaodan.github.io",
+  "kunkun": "kunkun.netlify.app",
+  "leader": "willin.github.io",
+  "learn": "hosting.gitbook.com",
+  "logo": "js-cool.github.io",
+  "love": "sincere.vercel.app", // noCF
+  "luca": "lucatolton.github.io",
+  "lzscxb": "lzscxb.github.io",
+  "mc": "cnzc.github.io",
+  "mengd": "cname.vercel-dns.com",
+  "mew": "meowier.github.io",
+  "minecraft": "mcjs.pages.dev",
+  "mingyan": "lehs8n.coding-pages.com", // noCF
+  "ms": "ms27520.github.io",
+  "muyangplus": "muyangplus.github.io", // noCF
+  "na": "qq.mcust.cn",
+  "navigator":"navigator.github.io",
+  "ngcchinl": "zeusgangzz.github.io",
+  "noho": "willin.github.io",
+  "notapi": "notapi.vercel.app", // noCF
+  "pattrick": "kazs0001.github.io",
+  "preview.spicydevs": "spicydevs.github.io",
+  "pzwboy": "pzwboy.github.io",
+  "radio": "ayahchill.github.io",
+  "rallie": "ralliejs.github.io",
+  "regexper": "wshow.github.io",
+  "remix": "remix-blog-demo.pages.dev",
+  "remix-i18n": "remix-i18n.pages.dev",
+  "resources": "willin.github.io",
+  "retrounhash": "retrounhash.pages.dev",
+  "rx": "willin.github.io",
+  "scripthouse": "scripthouse.vercel.app", // noCF
+  "sd": "spicydevs.pages.dev",
+  "servers": "opaayush.github.io",
+  "shorturl": "63a13201-210b-428a-bebc-299898afb42b.id.repl.co",
+  "shu": "87a5f664-7619-4689-b0d8-3cf0d028a6d3.id.repl.co",
+  "smallkunkun": "kblog-dev.netlify.app",
+  "speech": "willin.github.io",
+  "spicydevs": "spicydevs.pages.dev",
+  "spin": "rahulkarda.github.io",
+  "start": "start-pages.vercel.app", // noCF
+  "thitit": "portfolio-five-tan.vercel.app",
+  "todoish":"academicgit.github.io",
+  "u": "short-url.pages.dev", // noCF
+  "uiw": "uiwjs.github.io",
+  "vasu": "vasu-xd.github.io",
+  "vchart": "willin.github.io",
+  "verse": "verse-social.vercel.app",
+  "waio": "cname.vercel-dns.com", // noCF
+  "wangdabao": "wangdabaoqq.github.io",
+  "wangdabao-resume": "wangdabaoqq.github.io",
+  "whatsme.dhruvil":"whatsme.netlify.app",
+  "willmo": "dr-willmos.github.io",
+  "wlcf": "md-wz.vercel.app", // noCF
+  "wordle":"academicgit.github.io",
+  "world": "pythoniaweb.github.io",
+  "wsee": "md-wz.vercel.app", // noCF
+  "www": "kv6xcc.coding-pages.com",
+  "wzx": "wzx-blog.vercel.app", // noCF
+  "wzxg": "wzx-game.netlify.app", // noCF
+  "wzxn": "wzx-nav.netlify.app", // noCF
+  "xiaomeiwu":"xiaomeiwu.github.io",
+  "xiaopi": "xiaopi.netlify.app",
+  "xiaowang": "xiaowang.netlify.app",
+  "xrkffgg": "xrkffgg.github.io",
+  "xyzblog": "xyzscratcher.github.io",
+  "yogg": "yogsuhrawn.github.io",
+  "zenobia": "zenobiadevelopment.github.io",
+  "zeptar": "zeptar.vercel.app",
+  "zswangziye":"zswangziye.github.io",
+  "zwt": "zwtdyhm.github.io",
+  "zwtdwlzd": "zwtdwlid.github.io",
+  "zwtdwz": "zwtdzh.github.io",
+  "zwtdwzym": "zwtduserid.github.io",
+  "zx": "cname.vercel-dns.com", // noCF
+  "zzy":"hitptep.github.io" // noCF
+}
