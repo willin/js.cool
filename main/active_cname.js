@@ -149,6 +149,7 @@ module.exports = {
   "xrkffgg": "xrkffgg.github.io",
   "xyzblog": "xyzscratcher.github.io",
   "yogg": "yogsuhrawn.github.io",
+  "zennnnnnnnnnnn": "zennnnnnnnnnnn.github.io",
   "zenobia": "zenobiadevelopment.github.io",
   "zeptar": "zeptar.vercel.app",
   "zswangziye":"zswangziye.github.io",
