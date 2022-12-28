@@ -36,6 +36,7 @@ module.exports = {
   "appcheck": "app-checker.github.io",
   "json": "waifu-project.github.io",
   "spin": "rahulkarda.github.io",
+  "can1425": "can1425.github.io",
   "code-font": "waifu-project.github.io",
   "color-ui": "colorui-kit.github.io",
   "icns": "icnskit.github.io",
