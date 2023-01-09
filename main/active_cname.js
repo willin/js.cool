@@ -29,6 +29,7 @@ module.exports = {
   'github': 'cdn-github.willin.workers.dev', // github.com
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
+  'robsd': 'robsd.pages.dev',
   // 请在此处区域内添加自定义域名
   "xyzblog": "xyzscratcher.github.io",
   "13": "0x3st.netlify.app",
