@@ -160,6 +160,7 @@ module.exports = {
   'feat-status': 'status.cron-job.org',
   'zennnnnnnnnnnn': 'zennnnnnnnnnnn.github.io',
   'xlenco'：'xlenco.vercel.app' //noCF
+  'gtcblog'：'gtcblog.netlify.app' //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
