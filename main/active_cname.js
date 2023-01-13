@@ -159,8 +159,8 @@ module.exports = {
   'feat': 'featyou.vercel.app',
   'feat-status': 'status.cron-job.org',
   'zennnnnnnnnnnn': 'zennnnnnnnnnnn.github.io',
-  'xlenco'：'xlenco.vercel.app' //noCF
-  'yxlr': 'regal-gnome-0c8689.netlify.app' //noCF
+  'xlenco'：'xlenco.vercel.app', //noCF
+  'yxlr': 'regal-gnome-0c8689.netlify.app', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
