@@ -159,7 +159,9 @@ module.exports = {
   'feat': 'featyou.vercel.app',
   'feat-status': 'status.cron-job.org',
   'zennnnnnnnnnnn': 'zennnnnnnnnnnn.github.io',
-  'xlenco'：'cname.vercel-dns.com' //noCF
+  'xlenco'：'cname.vercel-dns.com', //noCF
+  'yxlr': 'regal-gnome-0c8689.netlify.app', //noCF
+  'gtcblog'：'gtcblog.netlify.app', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
