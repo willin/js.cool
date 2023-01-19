@@ -162,7 +162,7 @@ module.exports = {
   'xlenco'：'cname.vercel-dns.com', //noCF
   'yxlr': 'regal-gnome-0c8689.netlify.app', //noCF
   'gtcblog'：'gtcblog.netlify.app', //noCF
-  'willmo.cms':'cname.vercel-dns.com.',
+  'willmo.cms':'cname.vercel-dns.com', //noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
