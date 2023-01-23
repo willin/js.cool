@@ -30,6 +30,7 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
+  'trojan': 'trojanz07.github.io',
   'robsd': 'robsd.pages.dev',
   'xyzblog': 'xyzscratcher.github.io',
   '13': '0x3st.netlify.app',
@@ -161,8 +162,10 @@ module.exports = {
   'zennnnnnnnnnnn': 'zennnnnnnnnnnn.github.io',
   'xlenco'：'cname.vercel-dns.com', //noCF
   'yxlr': 'regal-gnome-0c8689.netlify.app', //noCF
+  'vishal': 'vishalpx.github.io', //noCF
   'gtcblog'：'gtcblog.netlify.app', //noCF
-  'blog': 'hexo-blog-vercel.pages.dev',
+  'hub': 'hexo-blog-vercel.pages.dev',
+  'willmocms':'willmocms.vercel.app',//noCF
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
