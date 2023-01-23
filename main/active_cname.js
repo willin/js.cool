@@ -146,6 +146,7 @@ module.exports = {
   'dice': 'cname.vercel-dns.com', //noCF
   'willmo': 'willmo.netlify.app', 
   'navigator':'navigator.github.io',
+  'vishal': 'vishalpx.github.io', //noCF
   'zswangziye':'zswangziye.github.io',
   'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
   'dengduck':'dengduck.netlify.app',
