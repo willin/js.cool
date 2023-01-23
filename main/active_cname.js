@@ -145,6 +145,7 @@ module.exports = {
   'dice': 'cname.vercel-dns.com', //noCF
   'willmo': 'willmo.netlify.app', 
   'navigator':'navigator.github.io',
+  'vishal': 'vishalpx.github.io', //noCF
   'zswangziye':'zswangziye.github.io',
   'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
   'dengduck':'dengduck.netlify.app',
@@ -168,6 +169,5 @@ module.exports = {
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
-  'logo': 'js-cool.github.io',
-  'vishal': 'vishalpx.github.io' //noCF
+  'logo': 'js-cool.github.io'
 };
