@@ -133,7 +133,7 @@ module.exports = {
   'radio': 'ayahchill.github.io',
   'start': 'start-pages.vercel.app',//noCF
   'zx': 'cname.vercel-dns.com', //noCF
-  'mc': 'mcjscool.pages.dev',
+  'mc': 'mcjscool.pages.dev',//noCF
   'aqiu': 'aqiu.vercel.app',//nocF
   'scripthouse': 'scripthouse.vercel.app',//nocF
   'elvis': 'elvisndubuisi.vercel.app',//nocF
