@@ -167,6 +167,7 @@ module.exports = {
   'willmocms':'willmocms.vercel.app',//noCF
   'syr': 'cname-china.vercel-dns.com',//noCF
   'marzm': 'xiaomait.github.io',
+  'jayg': 'jayggit.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
