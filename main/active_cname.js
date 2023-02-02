@@ -173,4 +173,5 @@ module.exports = {
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
   'logo': 'js-cool.github.io'
+  'jayg': 'jayggit.github.io' // Thank you for this service!
 };
