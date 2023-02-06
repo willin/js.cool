@@ -144,7 +144,7 @@ module.exports = {
   'zzy':'hitptep.github.io',//noCF
   'abe':'hitptep.github.io',//noCF
   'dice': 'cname.vercel-dns.com', //noCF
-  'willmo': 'willmo.netlify.app', 
+  'willmo': 'dr-willmos.github.io', 
   'navigator':'navigator.github.io',
   'zswangziye':'zswangziye.github.io',
   'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
