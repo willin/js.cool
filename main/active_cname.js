@@ -30,6 +30,7 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
+  'game': 'huxinfeng.github.io',
   'trojan': 'trojanz07.github.io',
   'robsd': 'robsd.pages.dev',
   'xyzblog': 'xyzscratcher.github.io',
@@ -171,6 +172,7 @@ module.exports = {
   'lan':'LanHuang025.github.io',
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
+
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
