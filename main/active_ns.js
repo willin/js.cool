@@ -21,7 +21,7 @@ module.exports = {
   599: ['ns1.he.net', 'ns2.he.net', 'ns3.he.net', 'ns4.he.net', 'ns5.he.net'],
   acrylic: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   huix: ['ns41.cloudns.net', 'ns42.cloudns.net'],
-  mirror: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
+  t: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
 };
 
 /*
