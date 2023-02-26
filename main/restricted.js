@@ -11,7 +11,7 @@
  * ****************
  *
  *      有一些子域名会保留给 JS.COOL 团队使用（如：dev.js.cool、api.js.cool）
- *      另外有一些子域名为社区保留（如：blog.js.org、 docs.js.org）
+ *      另外有一些子域名为社区保留（如：blog.js.cool、 docs.js.cool）
  *      如果您想要使用列表中受限的子域名，请联系 i(at)js.cool
  *
  */
@@ -45,6 +45,7 @@ module.exports = [
   'gov',
   'm',
   'mil',
+  'mirror',
   'mobile',
   'my',
   'net',

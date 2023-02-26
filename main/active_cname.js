@@ -30,14 +30,20 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
-  "13": "0x3st.netlify.app",
-  "appcheck": "app-checker.github.io",
-  "json": "waifu-project.github.io",
-  "spin": "rahulkarda.github.io",
-  "code-font": "waifu-project.github.io",
-  "color-ui": "colorui-kit.github.io",
-  "icns": "icnskit.github.io",
-  "j2me_games": "waifu-project.github.io",
+  'game': 'huxinfeng.github.io',
+  'trojan': 'trojanz07.github.io',
+  'robsd': 'robsd.pages.dev',
+  'xyzblog': 'xyzscratcher.github.io',
+  '13': '0x3st.netlify.app',
+  'foryou': 'foryou-byfw.vercel.app', //noCF
+  'appcheck': 'app-checker.github.io',
+  'json': 'waifu-project.github.io',
+  'spin': 'rahulkarda.github.io',
+  'can1425': 'can1425.github.io',
+  'code-font': 'waifu-project.github.io',
+  'color-ui': 'colorui-kit.github.io',
+  'icns': 'icnskit.github.io',
+  'j2me_games': 'waifu-project.github.io',
   'cnchar': 'theajack.github.io',
   'leader': 'willin.github.io',
   'codewars': 'js-cool.github.io',
@@ -47,6 +53,7 @@ module.exports = {
   'regexper': 'wshow.github.io',
   'hyperapp': 'willin.github.io',
   'anime': 'js-cool.github.io',
+  'vasu': 'vasu-xd.github.io',
   'learn': 'hosting.gitbook.com',
   'vchart': 'willin.github.io',
   'graphql': 'willin.github.io',
@@ -57,17 +64,19 @@ module.exports = {
   'noho': 'willin.github.io',
   //'jen': 'dirkhe1051931999.github.io',
   'uiw': 'uiwjs.github.io',
-  'exam': 'exam-clock.vercel.app', //noCf
+  'shu': '87a5f664-7619-4689-b0d8-3cf0d028a6d3.id.repl.co',
+  'exam': 'examined.netlify.app',
   'xrkffgg': 'xrkffgg.github.io',
   'interview': 'front-end-interview.netlify.app',
   'xiaomeiwu':'xiaomeiwu.github.io',
   'xiaopi': 'xiaopi.netlify.app',
   'xiaowang': 'xiaowang.netlify.app',
   'love': 'sincere.vercel.app',// noCF
-  'ip': 'ipip.vercel.app', // noCF
+  'ip': 'cname-china.vercel-dns.com', // noCF
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na': 'qq.mcust.cn',
   'rx': 'willin.github.io',
+  'yogg': 'yogsuhrawn.github.io',
   'bbx': 'appser.gitee.io',
   'mengd': 'cname.vercel-dns.com',
   'kali': '551kdx.coding-pages.com',
@@ -89,13 +98,14 @@ module.exports = {
   'remix': 'remix-blog-demo.pages.dev',
   'atordvairn': 'atordvairn.vercel.app',
   'free-ss': 'free-ss.vercel.app',
+  'verse': 'verse-social.vercel.app',
   'retrounhash': 'retrounhash.pages.dev',
   'todoish':'academicgit.github.io',
   'wordle':'academicgit.github.io',
   'god': 'godwhitetaiwan.github.io',
   'godwhite': 'godwhitetaiwan.github.io',
   'lzscxb': 'lzscxb.github.io',
-  'fox': 'teror.vercel.app', //noCF
+  'fox': 'cname-china.vercel-dns.com', //noCF
   'luca': 'lucatolton.github.io',
   'notapi': 'notapi.vercel.app', //noCF
   'heiguoblog': 'fairy-plus.github.io',
@@ -106,21 +116,63 @@ module.exports = {
   'connor': 'connordoesdev.github.io',
   'mew': 'meowier.github.io',
   'ethan': 'ethan-phu.github.io',
-  'u': 'short-url.pages.dev', //noCF
   'wzx': 'wzx-blog.vercel.app', //noCF
   'wzxn': 'wzx-nav.netlify.app', //noCF
   'wzxg': 'wzx-game.netlify.app', //noCF
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
+  'spicydevs': 'spicydevs.pages.dev',
+  'cdn.spicydevs': 'spicydevs.github.io',
+  'sd': 'spicydevs.pages.dev',
+  'preview.spicydevs': 'spicydevs.github.io',
+  'minecraft': 'mcjs.pages.dev',
+  'servers': 'opaayush.github.io',
   'world': 'pythoniaweb.github.io',
   'frank': 'joyfrank.vercel.app',// noCF
   'class20': 'redblueidea.github.io',
   'radio': 'ayahchill.github.io',
   'start': 'start-pages.vercel.app',//noCF
   'zx': 'cname.vercel-dns.com', //noCF
-  'elvis': 'elvisndubuisi.vercel.app',
-  'mc': 'cnzc.github.io',
+  'mc': 'mcjscool.pages.dev',//noCF
+  'aqiu': 'aqiu.vercel.app',//nocF
+  'scripthouse': 'scripthouse.vercel.app',//nocF
+  'elvis': 'elvisndubuisi.vercel.app',//nocF
+  'dinglin': 'roaring-churros-e65865.netlify.app',// noCF
+  'thitit': 'portfolio-five-tan.vercel.app',
+  'duck': 'deng-duck.github.io',
+  'ms': 'ms27520.github.io',
+  'zzy':'hitptep.github.io',//noCF
+  'abe':'hitptep.github.io',//noCF
+  'dice': 'cname.vercel-dns.com', //noCF
+  'willmo': 'willmo.netlify.app', 
+  'navigator':'navigator.github.io',
+  'zswangziye':'zswangziye.github.io',
+  'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
+  'dengduck':'dengduck.netlify.app',
+  'waio': 'cname.vercel-dns.com', // noCF
+  'joy': 'frankjoy.vercel.app',// noCF
+  'journey': 'feynmanfrank.github.io',// noCF
+  'dhruvil':'dhruvilmoradiya.github.io',
+  'whatsme.dhruvil':'whatsme.netlify.app'
+  'zeptar': 'zeptar.vercel.app',
+  'muyangplus': 'muyangplus.github.io', // noCF
+  'eshexon': 'eshexon-docs.netlify.app', // noCF
+  'feat': 'featyou.vercel.app',
+  'feat-status': 'status.cron-job.org',
+  'zennnnnnnnnnnn': 'zennnnnnnnnnnn.github.io',
+  'xlenco'：'cname.vercel-dns.com', //noCF
+  'yxlr': 'regal-gnome-0c8689.netlify.app', //noCF
+  'vishal': 'vishalpx.github.io', //noCF
+  'gtcblog'：'gtcblog.netlify.app', //noCF
+  'willmocms':'willmocms.vercel.app',//noCF
+  'syr': 'cname-china.vercel-dns.com',//noCF
+  'marzm': 'xiaomait.github.io',
+  'jayg': 'jayggit.github.io',
+  'lan':'LanHuang025.github.io',
+  'geekswg':'geekswg.github.io',
+  'geek-waline': 'geekswg.vercel.app', //noCF
+
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF

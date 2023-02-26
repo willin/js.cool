@@ -13,6 +13,14 @@ module.exports = {
   html: ['ns1.alidns.com', 'ns2.alidns.com'],
   css: ['freedns1.registrar-servers.com', 'freedns2.registrar-servers.com', 'freedns3.registrar-servers.com', 'freedns4.registrar-servers.com', 'freedns5.registrar-servers.com'],
   cloud: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
+  go: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
+  ferdi: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
+  acey: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
+  play.minecraft: ['galileo.aternos.org', 'columbus.aternos.org'],
+  priyansh: ['ns41.cloudns.net', 'ns42.cloudns.net', 'ns43.cloudns.net', 'ns44.cloudns.net'],
+  599: ['ns1.he.net', 'ns2.he.net', 'ns3.he.net', 'ns4.he.net', 'ns5.he.net'],
+  acrylic: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
+  huix: ['ns41.cloudns.net', 'ns42.cloudns.net'],
 };
 
 /*
