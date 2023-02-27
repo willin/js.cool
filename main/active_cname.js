@@ -172,13 +172,12 @@ module.exports = {
   'lan':'LanHuang025.github.io',
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
-
+  'fun': 'michaelsynan.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
-  'www': 'kv6xcc.coding-pages.com', // 国内镜像
+  'www': 'js-cool.github.io', // 国内镜像
   'logo': 'js-cool.github.io',
-  'fun': 'https://michaelsynan.github.io/fun/',
 };
