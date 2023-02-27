@@ -179,5 +179,5 @@ module.exports = {
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
   'www': 'js-cool.github.io', // 国内镜像
-  'logo': 'js-cool.github.io',
+  'logo': 'js-cool.github.io'
 };
