@@ -22,6 +22,7 @@ module.exports = {
   acrylic: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   huix: ['ns41.cloudns.net', 'ns42.cloudns.net'],
   yuuuics: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
+  devforum: ['ns1.epizy.com', 'ns2.epizy.com'],
 };
 
 /*
