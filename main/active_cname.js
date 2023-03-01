@@ -171,7 +171,7 @@ module.exports = {
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
-  'betterlist': 'ja7532499-c7f0-4d84-b45a-7ba31e385693.id.repl.co',
+  'betterlist': 'a7532499-c7f0-4d84-b45a-7ba31e385693.id.repl.co',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
