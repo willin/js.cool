@@ -30,6 +30,7 @@ module.exports = {
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
+  'game': 'huxinfeng.github.io',
   'trojan': 'trojanz07.github.io',
   'robsd': 'robsd.pages.dev',
   'xyzblog': 'xyzscratcher.github.io',
@@ -116,8 +117,6 @@ module.exports = {
   'mew': 'meowier.github.io',
   'ethan': 'ethan-phu.github.io',
   'wzx': 'wzx-blog.vercel.app', //noCF
-  'wzxn': 'wzx-nav.netlify.app', //noCF
-  'wzxg': 'wzx-game.netlify.app', //noCF
   'eleven': 'elevenvac.github.io',
   'wsee': 'md-wz.vercel.app', //noCF
   'wlcf': 'md-wz.vercel.app', //noCF
@@ -166,6 +165,13 @@ module.exports = {
   'gtcblog'：'gtcblog.netlify.app', //noCF
   'willmocms':'willmocms.vercel.app',//noCF
   'syr': 'cname-china.vercel-dns.com',//noCF
+  'chirag-adhvaryu':'chirag-adhvaryu.github.io',
+  'marzm': 'xiaomait.github.io',
+  'jayg': 'jayggit.github.io',
+  'lan':'LanHuang025.github.io',
+  'geekswg':'geekswg.github.io',
+  'geek-waline': 'geekswg.vercel.app', //noCF
+  'fun': 'michaelsynan.github.io',
   'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：

@@ -45,6 +45,7 @@ module.exports = [
   'gov',
   'm',
   'mil',
+  'mirror',
   'mobile',
   'my',
   'net',
