@@ -171,6 +171,7 @@ module.exports = {
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
+  'ansari-saify':'ansari-saify.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
