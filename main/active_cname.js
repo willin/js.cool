@@ -166,7 +166,7 @@ module.exports = {
   'gtcblog'：'gtcblog.netlify.app', //noCF
   'willmocms':'willmocms.vercel.app',//noCF
   'syr': 'cname-china.vercel-dns.com',//noCF
-  'chirag-adhvaryu':'chirag-adhvaryu-dev.github.io',
+  'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
