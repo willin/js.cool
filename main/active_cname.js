@@ -167,6 +167,7 @@ module.exports = {
   'syr': 'cname-china.vercel-dns.com',//noCF
   'marzm': 'xiaomait.github.io',
   'jayg': 'jayggit.github.io',
+  'yashh-chauhan':'yashh-chauhan.github.io',
   'lan':'LanHuang025.github.io',
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
