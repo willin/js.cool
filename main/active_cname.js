@@ -173,6 +173,7 @@ module.exports = {
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
+  'zmk': 'wszmk.github.io',
   'ba': 'mianba.netlify.app',
   'viren-trivedi':'viren-trivedi.github.io',
   'hajeekn': 'cname.vercel-dns.com', //noCF
