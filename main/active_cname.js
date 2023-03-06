@@ -173,6 +173,7 @@ module.exports = {
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
+  'viren-trivedi':'viren-trivedi.github.io',
   'hajeekn': 'cname.vercel-dns.com', //noCF
   'yash-poojara':'yash-poojara.github.io',
   'ajit-thakor':'ajit-thakor.github.io',
