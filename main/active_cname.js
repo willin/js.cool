@@ -173,6 +173,7 @@ module.exports = {
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
+  'yash-poojara':'yash-poojara.github.io',
   'ajit-thakor':'ajit-thakor.github.io',
   'viral-gadhiya':'viral-gadhiya.github.io',
   'dudani-meet':'dudani-meet.github.io',
