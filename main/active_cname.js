@@ -173,6 +173,7 @@ module.exports = {
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
+  'ankit-acquaintsoft':'ankit-acquaintsoft.github.io',
   'bhavesh-acquaintsoft':'bhavesh-acquaintsoft.github.io',
   'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   // 请在此行之上新增一行并提交 Pull Request
