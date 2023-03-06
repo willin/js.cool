@@ -165,18 +165,31 @@ module.exports = {
   'gtcblog'：'gtcblog.netlify.app', //noCF
   'willmocms':'willmocms.vercel.app',//noCF
   'syr': 'cname-china.vercel-dns.com',//noCF
+  'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   'marzm': 'xiaomait.github.io',
   'jayg': 'jayggit.github.io',
+  'yashh-chauhan':'yashh-chauhan.github.io',
   'lan':'LanHuang025.github.io',
   'geekswg':'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
   'viren-trivedi':'viren-trivedi.github.io',
+  'hajeekn': 'cname.vercel-dns.com', //noCF
+  'yash-poojara':'yash-poojara.github.io',
+  'ajit-thakor':'ajit-thakor.github.io',
+  'viral-gadhiya':'viral-gadhiya.github.io',
+  'dudani-meet':'dudani-meet.github.io',
+  'priti-shide':'priti-shide.github.io'
+  'ansari-saify':'ansari-saify.github.io',
+  'mihir-patel-agc':'mihir-patel-agc.github.io',
+  'ankit-acquaintsoft':'ankit-acquaintsoft.github.io',
+  'bhavesh-acquaintsoft':'bhavesh-acquaintsoft.github.io',
+  'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
   // 以下为已启用的保留域名，请勿修改
   '@': 'js-cool.github.io',
-  'www': 'js-cool.github.io', // 国内镜像
-  'logo': 'js-cool.github.io'
+  'www': 'kv6xcc.coding-pages.com', // 国内镜像
+  'logo': 'js-cool.github.io',
 };
