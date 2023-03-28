@@ -187,6 +187,7 @@ module.exports = {
   'bhavesh-acquaintsoft':'bhavesh-acquaintsoft.github.io',
   'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   'insight':'insight.adaptable.app',
+  'prajapati-divya':'prajapati-divya.github.io',
   'pandya-riddhi':'pandya-riddhi.github.io',
   'shakeel-ahamad':'shakeel-ahamad.github.io',
   'ajay-charotariya':'ajay-charotariya.github.io',
