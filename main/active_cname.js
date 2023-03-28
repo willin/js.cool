@@ -188,6 +188,7 @@ module.exports = {
   'chirag-adhvaryu':'chirag-adhvaryu.github.io',
   'insight':'insight.adaptable.app',
   'mandaninikunj':'mandaninikunj.github.io',
+  'hiren-brahmbhatt':'hiren-brahmbhatt.github.io',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
