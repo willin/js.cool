@@ -1,0 +1,9 @@
+owner{
+  'email': 'sahil@spicydevs.me',
+    'github': "TRIPLR1RRT"
+};
+
+records{
+  'CNAME': '78000956-fa15-4db2-b03a-c97dfdfde984.id.repl.co',
+    'TXT': 'replit-verify=78000956-fa15-4db2-b03a-c97dfdfde984'
+};
