@@ -63,6 +63,7 @@ module.exports = {
   'antiadblock': 'js-cool.github.io',
   'noho': 'willin.github.io',
   //'jen': 'dirkhe1051931999.github.io',
+  'u': 'axorax.github.io/urlmskr',
   'uiw': 'uiwjs.github.io',
   'shu': '87a5f664-7619-4689-b0d8-3cf0d028a6d3.id.repl.co',
   'exam': 'examined.netlify.app',
