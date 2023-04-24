@@ -152,7 +152,7 @@ module.exports = {
   'journey': 'feynmanfrank.github.io',// noCF
   'dhruvil':'dhruvilmoradiya.github.io',
   'whatsme.dhruvil':'whatsme.netlify.app'
-  'zeptar': 'zeptar.vercel.app',
+  'ziscul': 'ziscul.vercel.app',
   'muyangplus': 'muyangplus.github.io', // noCF
   'eshexon': 'eshexon-docs.netlify.app', // noCF
   'feat': 'featyou.vercel.app',
