@@ -23,7 +23,8 @@ module.exports = {
   huix: ['ns41.cloudns.net', 'ns42.cloudns.net'],
   yuuuics: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   crypt: ['ns1.epizy.com', 'ns2.epizy.com'],
-  mc: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com']
+  mc: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
+  dast: ['adam.ns.cloudflare.com', 'marjory.ns.cloudflare.com'],
 };
 
 /*
