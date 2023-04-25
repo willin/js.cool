@@ -194,6 +194,7 @@ module.exports = {
   'ajay-charotariya':'ajay-charotariya.github.io',
   'mandaninikunj':'mandaninikunj.github.io',
   'hiren-brahmbhatt':'hiren-brahmbhatt.github.io',
+  'samir-vaghela':'samir-vaghela.github.io',
   'gottaegbert':'egbert.vercel.app',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
