@@ -34,6 +34,10 @@
 - 参与 Github [Sponsor 月捐计划](https://github.com/sponsors/willin)
 - 支付宝或微信[扫码打赏](https://user-images.githubusercontent.com/1890238/89126156-0f3eeb80-d516-11ea-9046-5a3a5d59b86b.png)
 
+## 黑名单
+
+- @acquaint-softtech 公司及员工
+
 ## 许可证
 
 Apache-2.0
