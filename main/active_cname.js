@@ -32,6 +32,8 @@ module.exports = {
   // 请在此处区域内添加自定义域名
   'game': 'huxinfeng.github.io',
   'trojan': 'trojanz07.github.io',
+  
+'mayank-rathva':'mayank-rathva.github.io',
   'robsd': 'robsd.pages.dev',
   'xyzblog': 'xyzscratcher.github.io',
   '13': '0x3st.netlify.app',
