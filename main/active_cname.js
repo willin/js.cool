@@ -29,6 +29,7 @@ module.exports = {
   'github': 'cdn-github.willin.workers.dev', // github.com
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
+  'rahul-rabari':'rahul-rabari.github.io',
   // 请在此处区域内添加自定义域名
   'game': 'huxinfeng.github.io',
   'trojan': 'trojanz07.github.io',
