@@ -24,7 +24,8 @@ module.exports = {
   yuuuics: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
   crypt: ['ns1.epizy.com', 'ns2.epizy.com'],
   mc: ['ns1.vercel-dns.com', 'ns2.vercel-dns.com'],
-  dast: ['adam.ns.cloudflare.com', 'marjory.ns.cloudflare.com']
+  dast: ['adam.ns.cloudflare.com', 'marjory.ns.cloudflare.com'],
+  datality: ["ns1.zilore.net", "ns2.zilore.net"]
 };
 
 /*
