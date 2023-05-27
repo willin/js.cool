@@ -35,6 +35,7 @@ module.exports = {
   'robsd': 'robsd.pages.dev',
   'xyzblog': 'xyzscratcher.github.io',
   '13': '0x3st.netlify.app',
+  'leiloser': 'leiloser.giyhub.io',
   'foryou': 'foryou-byfw.vercel.app', //noCF
   'appcheck': 'app-checker.github.io',
   'json': 'waifu-project.github.io',
