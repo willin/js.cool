@@ -69,7 +69,7 @@ module.exports = {
   'exam': 'examined.netlify.app',
   'xrkffgg': 'xrkffgg.github.io',
   'interview': 'front-end-interview.netlify.app',
-  'xiaomeiwu':'xiaomeiwu.github.io',
+  'xiaomeiwu': 'xiaomeiwu.github.io',
   'xiaopi': 'xiaopi.netlify.app',
   'xiaowang': 'xiaowang.netlify.app',
   'love': 'sincere.vercel.app',// noCF
@@ -101,8 +101,8 @@ module.exports = {
   'free-ss': 'free-ss.vercel.app',
   'verse': 'verse-social.vercel.app',
   'retrounhash': 'retrounhash.pages.dev',
-  'todoish':'academicgit.github.io',
-  'wordle':'academicgit.github.io',
+  'todoish': 'academicgit.github.io',
+  'wordle': 'academicgit.github.io',
   'god': 'godwhitetaiwan.github.io',
   'godwhite': 'godwhitetaiwan.github.io',
   'lzscxb': 'lzscxb.github.io',
@@ -140,19 +140,19 @@ module.exports = {
   'thitit': 'portfolio-five-tan.vercel.app',
   'duck': 'deng-duck.github.io',
   'ms': 'ms27520.github.io',
-  'zzy':'hitptep.github.io',//noCF
-  'abe':'hitptep.github.io',//noCF
+  'zzy': 'hitptep.github.io',//noCF
+  'abe': 'hitptep.github.io',//noCF
   'dice': 'cname.vercel-dns.com', //noCF
-  'willmo': 'willmo.netlify.app', 
-  'navigator':'navigator.github.io',
-  'zswangziye':'zswangziye.github.io',
-  'duckwaline':'waline-3bg5otthj-deng-duck.vercel.app',
-  'dengduck':'dengduck.netlify.app',
+  'willmo': 'willmo.netlify.app',
+  'navigator': 'navigator.github.io',
+  'zswangziye': 'zswangziye.github.io',
+  'duckwaline': 'waline-3bg5otthj-deng-duck.vercel.app',
+  'dengduck': 'dengduck.netlify.app',
   'waio': 'cname.vercel-dns.com', // noCF
   'joy': 'frankjoy.vercel.app',// noCF
   'journey': 'feynmanfrank.github.io',// noCF
-  'dhruvil':'dhruvilmoradiya.github.io',
-  'whatsme.dhruvil':'whatsme.netlify.app'
+  'dhruvil': 'dhruvilmoradiya.github.io',
+  'whatsme.dhruvil': 'whatsme.netlify.app'
   'ziscul': 'ziscul.vercel.app',
   'muyangplus': 'muyangplus.github.io', // noCF
   'eshexon': 'eshexon-docs.netlify.app', // noCF
@@ -163,41 +163,42 @@ module.exports = {
   'yxlr': 'regal-gnome-0c8689.netlify.app', //noCF
   'vishal': 'vishalpx.github.io', //noCF
   'gtcblog'：'gtcblog.netlify.app', //noCF
-  'willmocms':'willmocms.vercel.app',//noCF
+  'willmocms': 'willmocms.vercel.app',//noCF
   'syr': 'cname-china.vercel-dns.com',//noCF
-  'chirag-adhvaryu':'chirag-adhvaryu.github.io',
+  'chirag-adhvaryu': 'chirag-adhvaryu.github.io',
   'marzm': 'xiaomait.github.io',
   'jayg': 'jayggit.github.io',
-  'yashh-chauhan':'yashh-chauhan.github.io',
-  'lan':'LanHuang025.github.io',
-  'geekswg':'geekswg.github.io',
+  'yashh-chauhan': 'yashh-chauhan.github.io',
+  'lan': 'LanHuang025.github.io',
+  'geekswg': 'geekswg.github.io',
   'geek-waline': 'geekswg.vercel.app', //noCF
   'fun': 'michaelsynan.github.io',
   'zmk': 'wszmk.github.io',
   'ba': 'mianba.netlify.app',
-  'viren-trivedi':'viren-trivedi.github.io',
+  'viren-trivedi': 'viren-trivedi.github.io',
   'hajeekn': 'cname.vercel-dns.com', //noCF
-  'yash-poojara':'yash-poojara.github.io',
-  'ajit-thakor':'ajit-thakor.github.io',
-  'viral-gadhiya':'viral-gadhiya.github.io',
-  'dudani-meet':'dudani-meet.github.io',
-  'priti-shide':'priti-shide.github.io'
-  'ansari-saify':'ansari-saify.github.io',
-  'mihir-patel-agc':'mihir-patel-agc.github.io',
-  'ankit-acquaintsoft':'ankit-acquaintsoft.github.io',
-  'bhavesh-acquaintsoft':'bhavesh-acquaintsoft.github.io',
-  'chirag-adhvaryu':'chirag-adhvaryu.github.io',
-  'insight':'insight.adaptable.app',
-  'lakhani-palak':'lakhani-palak.github.io',
-  'prajapati-divya':'prajapati-divya.github.io',
-  'pandya-riddhi':'pandya-riddhi.github.io',
-  'shakeel-ahamad':'shakeel-ahamad.github.io',
-  'ajay-charotariya':'ajay-charotariya.github.io',
-  'mandaninikunj':'mandaninikunj.github.io',
-  'hiren-brahmbhatt':'hiren-brahmbhatt.github.io',
-  'gottaegbert':'egbert.vercel.app',
-  'oa':'zcns.github.io',
-  'antioch':'antioch.vercel.app',
+  'yash-poojara': 'yash-poojara.github.io',
+  'ajit-thakor': 'ajit-thakor.github.io',
+  'viral-gadhiya': 'viral-gadhiya.github.io',
+  'dudani-meet': 'dudani-meet.github.io',
+  'priti-shide': 'priti-shide.github.io'
+  'ansari-saify': 'ansari-saify.github.io',
+  'mihir-patel-agc': 'mihir-patel-agc.github.io',
+  'ankit-acquaintsoft': 'ankit-acquaintsoft.github.io',
+  'bhavesh-acquaintsoft': 'bhavesh-acquaintsoft.github.io',
+  'chirag-adhvaryu': 'chirag-adhvaryu.github.io',
+  'insight': 'insight.adaptable.app',
+  'lakhani-palak': 'lakhani-palak.github.io',
+  'prajapati-divya': 'prajapati-divya.github.io',
+  'pandya-riddhi': 'pandya-riddhi.github.io',
+  'shakeel-ahamad': 'shakeel-ahamad.github.io',
+  'ajay-charotariya': 'ajay-charotariya.github.io',
+  'mandaninikunj': 'mandaninikunj.github.io',
+  'hiren-brahmbhatt': 'hiren-brahmbhatt.github.io',
+  'gottaegbert': 'egbert.vercel.app',
+  'oa': 'zcns.github.io',
+  'syed': 'alephanull.github.io',
+  'antioch': 'antioch.vercel.app',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
   // 'youarname': 'username.github.io' // noCF
