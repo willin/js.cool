@@ -26,7 +26,6 @@
  */
 module.exports = {
   // Cloudflare CDN
-  'syed': 'alephanull.github.io',
   'github': 'cdn-github.willin.workers.dev', // github.com
   'fonts-gstatic': 'cdn-fonts-gstatic.willin.workers.dev', // fonts.gstatic.com
   'remix-i18n': 'remix-i18n.pages.dev',
@@ -198,6 +197,7 @@ module.exports = {
   'hiren-brahmbhatt': 'hiren-brahmbhatt.github.io',
   'gottaegbert': 'egbert.vercel.app',
   'oa': 'zcns.github.io',
+  'syed': 'alephanull.github.io',
   'antioch': 'antioch.vercel.app',
   // 请在此行之上新增一行并提交 Pull Request
   // 示例：
