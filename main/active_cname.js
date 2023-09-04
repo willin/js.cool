@@ -31,7 +31,6 @@ module.exports = {
   'remix-i18n': 'remix-i18n.pages.dev',
   // 请在此处区域内添加自定义域名
   "13": "0x3st.netlify.app",
-  "foryou": "foryou-byfw.vercel.app", //noCF
   "appcheck": "app-checker.github.io",
   "json": "waifu-project.github.io",
   "spin": "rahulkarda.github.io",
