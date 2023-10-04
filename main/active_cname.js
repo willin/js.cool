@@ -73,7 +73,7 @@ module.exports = {
   'xiaopi': 'xiaopi.netlify.app',
   'xiaowang': 'xiaowang.netlify.app',
   'love': 'sincere.vercel.app',// noCF
-  'ip': 'cname-china.vercel-dns.com', // noCF
+  'ip': 'vercel-dns.kai.bi', // noCF
   'mingyan': 'lehs8n.coding-pages.com', //noCf
   'na': 'qq.mcust.cn',
   'rx': 'willin.github.io',
