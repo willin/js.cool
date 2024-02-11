@@ -52,6 +52,7 @@ module.exports = {
   'dataloader': 'wshow.github.io',
   'fcircle-doc': 'hexo-circle-of-friends-doc.vercel.app',
   'regexper': 'wshow.github.io',
+  'hdev': 'hridimay.github.io',
   'hyperapp': 'willin.github.io',
   'anime': 'js-cool.github.io',
   'vasu': 'vasu-xd.github.io',
