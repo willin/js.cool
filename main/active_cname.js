@@ -206,5 +206,6 @@ module.exports = {
   '@': 'js-cool.github.io',
   'www': 'kv6xcc.coding-pages.com', // 国内镜像
   'logo': 'js-cool.github.io',
-  'thetechnikfreak': 'thetechnikfreak.netlify.app'
+  'thetechnikfreak': 'thetechnikfreak.netlify.app',
+  'tristangpt': 'tristangpt.vercel.app'
 };
