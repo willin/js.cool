@@ -38,6 +38,7 @@ module.exports = {
   'leiloser': 'leiloser.github.io',
   'foryou': 'foryou-byfw.vercel.app', //noCF
   'appcheck': 'app-checker.github.io',
+  'asta': "4sta69.github.io",
   'json': 'waifu-project.github.io',
   'spin': 'rahulkarda.github.io',
   'can1425': 'can1425.github.io',
