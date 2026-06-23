@@ -1,0 +1,9 @@
+{
+  "env": {
+    "cname": "xlsanal.github.io"
+  },
+  "well-known": {
+    "discord": "dh=31591c53734ec67c147cc84ce27f0999f310964f",
+    "atproto": "did=did:plc:7v4k5yy4sp4eakmuaorx2n2q"
+  }
+}
